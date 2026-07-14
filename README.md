@@ -1,7 +1,10 @@
 # Zilliqa - Zilliqa Blockchain Ruby Library
 
+> [!WARNING]
+> **Legacy and archived:** This gem is no longer maintained. This repository is
+> archived and read-only. Do not use it for new projects; use it at your own risk.
+
 - [Zilliqa API doc](https://apidocs.zilliqa.com/)
-- The project is still under development.
 
 
 
